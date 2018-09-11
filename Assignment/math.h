@@ -2,7 +2,7 @@
  * math.h
  *
  *  Created on: Aug 22, 2017
- * 	Last Edited: Sept 7, 2018
+ * 	Last Edited: Sept 10, 2018
  *      Author: Russell Trafford
  */
 
@@ -10,7 +10,7 @@
  * + Add (num1 + num2)
  * - Subtract (num1 - num2)
  * * Multiply (num1 * num2)
- * / Divide (num1 / num2)
+ * / Divide (num1 / num2) for this operation, no decimal places are kept, if num2 equals 0, 0 is returned
  * % Modulus (num1 % num2)
  * < Left Shift (num1 << num2)
  * > Right Shift (num1 >> num2)
